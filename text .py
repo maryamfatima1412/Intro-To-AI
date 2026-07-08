@@ -1,0 +1,5 @@
+file = open("myfile.txt", "w")
+file.write("I am Pakistani. \n")
+file.write("I used to live in England. \n")
+file.write("I play football. \n")
+file.close()
